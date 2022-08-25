@@ -1,0 +1,4 @@
+C:\Users\Acer\OneDrive\Документы\Visual Studio 2010\Projects\aoo\hjjj\bin\hjjj.dll
+C:\Users\Acer\OneDrive\Документы\Visual Studio 2010\Projects\aoo\hjjj\bin\hjjj.pdb
+C:\Users\Acer\OneDrive\Документы\Visual Studio 2010\Projects\aoo\hjjj\obj\Debug\hjjj.dll
+C:\Users\Acer\OneDrive\Документы\Visual Studio 2010\Projects\aoo\hjjj\obj\Debug\hjjj.pdb
