@@ -19,7 +19,6 @@ function moveCircle() {
     renderTarget.fill();
     renderTarget.drawImage(base_image, 0, 0);
     renderTarget.closePath();
-    var d = "ЮРА БЛЯТЬ включи микро";
 
     x += ballXVelocity;
     y += ballYVelocity;
@@ -45,8 +44,4 @@ function getRandomInt(min, max) {
     min = Math.ceil(min);
     max = Math.floor(max);
     return Math.floor(Math.random() * (max - min) + min); //The maximum is exclusive and the minimum is inclusive
-}
-
-function make_base() {
-
 }
